@@ -1,6 +1,6 @@
 package com.driver;
 
-class Main{
+public class Main{
 	
 	
 	public static class A{
